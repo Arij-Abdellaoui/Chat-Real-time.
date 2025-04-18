@@ -1,5 +1,5 @@
 # chat-application
-Full frontend and backend ( Angular , Spring Boot and mongoDb )
+Full frontend and backend ( Angular , Spring Boot and mysql )
 
 Steps to run the application
 =============================
@@ -19,14 +19,5 @@ Step7: Open any web browser
 Full frontend and backend ( Angular , Spring Boot and MYSQL ) added in another branch                                                                    
 (change mysql username and password in configuration file)                                                                                    
                                                                                                                                      
-To pull from that branch use the command :-                                                                                                                   
-git clone --branch chat_using_mysql https://github.com/codreal-yt/chat-application.git                                                                     
-                                                                                                                                                  
-(If getting any error, Ping me in Youtube channel comment box)                                                                                             
-
-======================================
-
-Like, share and subscribe to my channel for more updates.                                    
-https://www.youtube.com/@codreal       
-                                                                                             
+                                                                     
 Thank You
